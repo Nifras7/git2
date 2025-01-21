@@ -1,2 +1,2 @@
-Name = 'Nifars'
+Name = 'Nifras'
 print(Name)
